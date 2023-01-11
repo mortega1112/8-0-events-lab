@@ -7,3 +7,7 @@ for (let i = 0; i < 100; i++) {
 }
 
 // You may write your code here!
+ 
+<body>
+  <color><div class="color" style="background: black"></div><color>
+</body>
